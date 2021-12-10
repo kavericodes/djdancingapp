@@ -1,0 +1,53 @@
+h3{
+    width: 100%;  
+    margin: 0;
+}
+
+.heading{
+    font-size: 22px;
+}
+
+.note{
+    color: black;
+    font-size: 16px;
+}
+
+.disk_speed_image,.disk_volume_image{
+ width: 200px;
+ border-radius: 100px;
+}
+
+#speed,#volume{
+font-size: 20px;
+margin: 15px;
+}
+
+#div_speed{
+    float: right;
+}
+
+#div_volume{
+    float: left;
+}
+
+.copy_right_footer {
+  width: 100%;
+  color: #ffffff;
+  bottom: 0;
+  line-height: 3;
+  text-align: center;
+  position: fixed;
+  font-size: 21px;
+  left: 0;
+}
+
+.play{
+    width: 130px;
+    font-size: 25px;
+}
+
+canvas{
+    border: 5px solid white;
+    box-shadow: 2px 2px 40px greenyellow;
+    border-radius: 20px;
+}
